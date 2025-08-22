@@ -1,0 +1,481 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Firecast Log</title>
+    <style>
+      body {
+        background-color: #272727;
+        padding-left: 40px;
+        padding-right: 40px;
+      }
+      
+      p, h1, h2, h3, h4, h5, h7, a, body {
+        color: #F2F2F2;
+      }
+      
+      div.group-entity-log {
+        padding-left: 40px;
+        padding-right: 40px;
+      }
+      
+      .log p {
+        margin-bottom: 8px;
+      }
+      
+      p.group-header {
+        margin-bottom: 8px;
+      }
+      
+      span.group-nick {
+        color: white;
+        font-weight: bold;
+      }
+      
+      span.group-timestamp {
+        color: #5B5E62;
+      }
+      
+      hr.group-sep-no-date {
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #949494;
+        margin: 1em 0;
+        padding 0;
+      }
+      
+      .group-sep-with-date {
+        display: block;
+        text-align: center;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-top: 8px;
+        margin-bottom: 8px;
+      }
+      
+      .group-sep-with-date > span {
+        position: relative;
+        display: inline-block;
+        color: #949494;
+      }
+      
+      .group-sep-with-date > span:before,
+      .group-sep-with-date > span:after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        width: 9999px;
+        height: 1px;
+        background: #949494;
+      }
+      
+      .group-sep-with-date > span:before {
+        right: 100%;
+        margin-right: 15px;
+      }
+      
+      .group-sep-with-date > span:after {
+        left: 100%;
+        margin-left: 15px;
+      }
+      
+      
+    </style>
+  </head>
+
+  <body>
+    <div class="group-sep-with-date">
+      <span>22 de Agosto</span>
+    </div>
+    <div class="group group-entity-log" id="group-68a81285a9b972e700a0e11c">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:47</span>
+      </p>
+      <span class="log msg-std" id="log-68a81285a9b972e700a0e11c">
+        <span class="talemark"><h1><span style="color: #F7C125">Breves Memórias de um Despertar</span></h1>
+        <h2><span class="talemark-narrative-action"><span style="color: #4285F4">● E01.S01 ●</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Regressão de Adar —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-action"><span style="color: #4285F4">● Intro ●</span></span></h2>
+        <p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— No início, o caos, um esforço para se conectar, se lembrar —</span></span></p>
+        
+        <hr>
+        <p><span class="talemark-narrative-action"><span style="color: #4285F4">● Jogadores ●</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 Adar 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Ladino —</span></span><span style="color: #F7C125"> Carlos</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 Andros 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Guerreiro —</span></span><span style="color: #F7C125"> Gustavo</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 Adar 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Guerreiro —</span></span><span style="color: #F7C125"> Agnaldo</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 ?? 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Ladino —</span></span><span style="color: #F7C125"> Gabriel</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 ?? 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Ladino —</span></span><span style="color: #F7C125"> Leo</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 ?? 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Barda —</span></span><span style="color: #F7C125"> Axo</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 ?? 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Clériga —</span></span><span style="color: #F7C125"> Amiga Axo</span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 ?? 】</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Humano Mago —</span></span><span style="color: #F7C125"> Leopold Leopoldo</span></p>
+        
+        <hr>
+        <p><span style="color: #F7C125">Vencendo a inércia, entendemos uma manifestação nas próprias palavras de Adar...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81298a9b972e700a0e122">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:47</span>
+      </p>
+      <span class="log msg-std" id="log-68a81298a9b972e700a0e122">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Me chamo Adar. —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 Inspira 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Sou Humano, Ladino. —</span></span><span style="color: #F7C125">  </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 Expira 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a812a3a9b972e700a0e128">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:47</span>
+      </p>
+      <span class="log msg-std" id="log-68a812a3a9b972e700a0e128">
+        <span class="talemark"><p><span style="color: #F7C125">Suas palavras ecoavam como em uma memória há muito tempo esquecida...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a812c3a9b972e700a0e12e">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:48</span>
+      </p>
+      <span class="log msg-std" id="log-68a812c3a9b972e700a0e12e">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Fui acusado de violar uma tumba e conduzido para uma cela numa masmorra —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Meus equipamentos: —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Uma armadura de couro batido, uma espada curta, uma adaga, 4 azagaias e um arco curto com 20 flechas —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Foram arrancadas de mim —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— E fui jogado, sem meus pertences, em uma cela na masmorra, onde estavam encarcerados 2 criminosos, um clérigo e um ladrão —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a812d8a9b972e700a0e136">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:48</span>
+      </p>
+      <span class="log msg-std" id="log-68a812d8a9b972e700a0e136">
+        <span class="talemark"><p><span style="color: #F7C125">Desolado, ele prosseguia em seus pensamentos...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a812eaa9b972e700a0e13c">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:49</span>
+      </p>
+      <span class="log msg-std" id="log-68a812eaa9b972e700a0e13c">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Não me recordo com precisão a ordem com que esses criminosos foram chegando —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Lembro apenas de passar a conviver de forma deplorável numa cela muito pequena —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Eramos alimentados pelo carceireiro de nome Cleitinho, que nos jogava restos de comida —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Na cela, eixstia apenas uma janela minúscula que iluminava nosso desespero —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Perdemos a noção do tempo —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a812fca9b972e700a0e140">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:49</span>
+      </p>
+      <span class="log msg-std" id="log-68a812fca9b972e700a0e140">
+        <span class="talemark"><p><span style="color: #F7C125">Lágrimas de profunda tristeza em seus olhos...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81307a9b972e700a0e146">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:49</span>
+      </p>
+      <span class="log msg-std" id="log-68a81307a9b972e700a0e146">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Eram circunstâncias desumadas —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81352a9b972e700a0e160">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:50</span>
+      </p>
+      <span class="log msg-std" id="log-68a81352a9b972e700a0e160">
+        <span class="talemark"><p><span style="color: #F7C125">Deixava suas lágrimas escorrerem sem enxugá-las...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a8136ca9b972e700a0e168">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:51</span>
+      </p>
+      <span class="log msg-std" id="log-68a8136ca9b972e700a0e168">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Outros criminosos iam sendo jogados dentro de nossa cela —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— De tempos em tempos —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— A cela ficou tão cheia a ponto de nos obrigar a revezar para dormir —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— As condições horríveis, terríveis, deploráveis e desumanas nos obrigou a cooperar uns com os outros —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Fracos, desnutridos, e imundos, nós nos apegamos num vínculo de sobrevivência —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a8138aa9b972e700a0e16e">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:51</span>
+      </p>
+      <span class="log msg-std" id="log-68a8138aa9b972e700a0e16e">
+        <span class="talemark"><p><span style="color: #F7C125">Mas ele se concentrou e lembrou que para aqueles que merecem, sempre há uma esperança...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81397a9b972e700a0e174">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:52</span>
+      </p>
+      <span class="log msg-std" id="log-68a81397a9b972e700a0e174">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Mas o destino quis que um nobre comprasse minha dívida, assim como a dos demais encarcerados —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Porém no dia que esse nobre veio até nós, ocorreu uma briga no momento de nossa soltura —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Eu recordo de pular fora da cela imediatamente ao ver o carcereiro abri-la —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a813a4a9b972e700a0e17a">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:52</span>
+      </p>
+      <span class="log msg-std" id="log-68a813a4a9b972e700a0e17a">
+        <span class="talemark"><p><span style="color: #F7C125">E então ele reagiu, ao mundo, de dentro de si...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a813b2a9b972e700a0e180">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:52</span>
+      </p>
+      <span class="log msg-std" id="log-68a813b2a9b972e700a0e180">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Meu anseio e ação por liberdade imediatamente causou reações nos outros presos —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Lembro-me do ladino, arrancar as chaves da cela da mão do carcereiro —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— E de Agnon pular para cima de um dos guardas puxando a maça que estava presa em sua cintura —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a813c0a9b972e700a0e186">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:52</span>
+      </p>
+      <span class="log msg-std" id="log-68a813c0a9b972e700a0e186">
+        <span class="talemark"><p><span style="color: #F7C125">Mas seu caminho traçado não se revelou fácil...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a813cda9b972e700a0e18c">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:52</span>
+      </p>
+      <span class="log msg-std" id="log-68a813cda9b972e700a0e18c">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— De repente m golpe de maça do outro guarda, fez com que o guerreiro Agnon desmaiasse —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— O ímpeto e ânimos de todos os prisioneiros foram então reduzidos e controlados —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Logo em seguida, um nobre de nome, Valen Ordriscall, nos avisou que estava comprando a nossa dívida —</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Suas arrogantes palavras, nos impuseram apenas duas rasas opções —</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a813eba9b972e700a0e198">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:53</span>
+      </p>
+      <span class="log msg-std" id="log-68a813eba9b972e700a0e198">
+        <span class="talemark"><p><span style="color: #F7C125">E como a vida é feita de escolhas, muitas vezes trata-se de agarrar a sua oportunidade.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Valorizar o que temos e saber que poderia ter sido pior.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Adar, então, buscou mais clareza para tomar seu posicionamento...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a813fca9b972e700a0e19c">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:53</span>
+      </p>
+      <span class="log msg-std" id="log-68a813fca9b972e700a0e19c">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Seremos tratados como servos? Seremos tratados como escravos!? —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 questionou ainda com as chaves do carceireiro em mãos já rendido 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a8142ba9b972e700a0e1a8">
+      <p class="group-header">
+        <span class="group-nick talemark">Valen</span>
+        <span class="group-timestamp">22/08/2025 03:54</span>
+      </p>
+      <span class="log msg-std" id="log-68a8142ba9b972e700a0e1a8">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Seus indigentes, vocês devem me agradecer por ter interesse em te oferecer mais de uma opção, uma questão de oportunidade —</span></span><span style="color: #F7C125">  </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 odiando estar próximo de todos ali presentes 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Vocês irão trabalhar para a família Ordriscall por um ano e é isso ou voltar para a cela na masmorra! —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 preocupado em não se sujar e incomodado com o odor proveniente da cela 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Então o que me dizem? —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 protegido pelos guardas, e querendo resolver logo esse assunto para poder sair logo desse inferno 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81440a9b972e700a0e1ae">
+      <p class="group-header">
+        <span class="group-nick talemark">Prisioneiros</span>
+        <span class="group-timestamp">22/08/2025 03:54</span>
+      </p>
+      <span class="log msg-std" id="log-68a81440a9b972e700a0e1ae">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— ... —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 silêncio ensurdecedor, clima tenso, de mistura de raiva, ódio e uma fraqueza monumental 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a8144ea9b972e700a0e1b4">
+      <p class="group-header">
+        <span class="group-nick talemark">Adar</span>
+        <span class="group-timestamp">22/08/2025 03:55</span>
+      </p>
+      <span class="log msg-std" id="log-68a8144ea9b972e700a0e1b4">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Estamos livres?</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81466a9b972e700a0e1ba">
+      <p class="group-header">
+        <span class="group-nick talemark">Valen</span>
+        <span class="group-timestamp">22/08/2025 03:55</span>
+      </p>
+      <span class="log msg-std" id="log-68a81466a9b972e700a0e1ba">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Vocês agora tem uma dívida com a família Ordriscall e por terem muita sorte, irão trabalhar por 1 ano para nós. Quem sabe conseguem comprar sua liberdade? Ah, acho que não, hahaha —</span></span><span style="color: #F7C125">  </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 esnoba imaginando que isso nunca será possível 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Agora vamos, tenho muito o que fazer... longe desse chiqueiro —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 saindo sobre a proteção de um dos guardas, deixando os prisioneiros sobre os cuidados do outro guarda 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Lembrando que se tentarem fugir é pena de morte —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 intimida com um ar de superiodade e sai da masmorra 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81493a9b972e700a0e1c6">
+      <p class="group-header">
+        <span class="group-nick talemark">Guarda</span>
+        <span class="group-timestamp">22/08/2025 03:56</span>
+      </p>
+      <span class="log msg-std" id="log-68a81493a9b972e700a0e1c6">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Valen pagou comprou a dívida dos senhores, vocês devem a ele agora sua liberdade —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 explica e solta os prisioneiros 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Seus pertences estão naquele cômodo —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 aponta avisando os prisioneiros 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Valen mandou vocês tomarem um banho na taverna, se vestirem e encontrar com ele na companhia Ordriscall —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 solta os prisioneiros 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a814a9a9b972e700a0e1cc">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:56</span>
+      </p>
+      <span class="log msg-std" id="log-68a814a9a9b972e700a0e1cc">
+        <span class="talemark"><p><span style="color: #F7C125">Os prisioneiros se equipam e são conduzidos à saída da masmorra, que se dá através de uma escada que sai no meio do quartel.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Frágeis ao ponto de demorar para se acostumar com a luminosidade de um dia ensolarado eles sobem a escada.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">O primeiro a sair quase é morto pois a escada dava no meio do quartel.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Mas um aceno de um dos guardas garante a liberdade provisória ao grupo.</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a814cba9b972e700a0e1da">
+      <p class="group-header">
+        <span class="group-nick talemark">Guarda</span>
+        <span class="group-timestamp">22/08/2025 03:57</span>
+      </p>
+      <span class="log msg-std" id="log-68a814cba9b972e700a0e1da">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Sr Valen pediu para que vocês averiguassem o paradeiro de um carregamento —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 de braços cruzados 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— A carroça já deveria ter chegado, verifiquem o que foi que ocorreu —</span></span><span style="color: #F7C125">  </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 observa andros de cima a baixo e chacoalha um saco com uma boa quantia de moedas 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Aqui está, Sr Valen pediu que entregasse —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 se referindo ao saco de moedas 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Disse que é para pagar Leopold, um especialista que irá guiá-los nessa missão —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 arremessa com força para Andros um saco cheio de moedas 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a814e6a9b972e700a0e1e2">
+      <p class="group-header">
+        <span class="group-nick talemark">Andros</span>
+        <span class="group-timestamp">22/08/2025 03:57</span>
+      </p>
+      <span class="log msg-std" id="log-68a814e6a9b972e700a0e1e2">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— ... —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 agarra o saco com as moedas fraco sem balbuciar nenhuma palavra 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81531a9b972e700a0e1f4">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 03:58</span>
+      </p>
+      <span class="log msg-std" id="log-68a81531a9b972e700a0e1f4">
+        <span class="talemark"><p><span style="color: #F7C125">O grupo então se dirigiu para a pior estalagem, a que a estadia havia sido paga por Valen.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Tomaram banho, se alimentaram e descansaram a noite inteira, exaustos.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Na manhã seguinte, obtiveram informações com o taverneiro sobre Leopold e sobre onde a carroça foi avistada pela última vez.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Leopold foi localizado em outra taverna e após contratado por Andros, conduziu o grupo até seu galpão, uma espécie de esconderijo...</span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a81551a9b972e700a0e1fc">
+      <p class="group-header">
+        <span class="group-nick talemark">Ladino</span>
+        <span class="group-timestamp">22/08/2025 03:59</span>
+      </p>
+      <span class="log msg-std" id="log-68a81551a9b972e700a0e1fc">
+        <span class="talemark"><p><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Eu sei onde a carroça foi vista pela última vez —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 explica entusiasmado 】</span></span><span style="color: #F7C125"><br/>
+        </span><span class="talemark-narrative-em-dash-speech"><span style="color: #FFFFFF">— Fica nos arredores do porto. Me sigam —</span></span><span style="color: #F7C125"> </span><span class="talemark-narrative-out-of-char"><span style="color: #1C9E3E">【 conduzindo o grupo para uma estrada, uma rota comercial 】</span></span></p>
+        </span>
+      </span>
+    </div>
+    <hr class="group-sep-no-date">
+    <div class="group group-entity-log" id="group-68a8165ca9b972e700a0e230">
+      <p class="group-header">
+        <span class="group-nick talemark">Narrador</span>
+        <span class="group-timestamp">22/08/2025 04:03</span>
+      </p>
+      <span class="log msg-std" id="log-68a8165ca9b972e700a0e230">
+        <span class="talemark"><p><span style="color: #F7C125">O grupo, guiado pelo ladino, e com um pouco de sorte, localiza destroços da carroça jogadas no mar.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Fazem um rastreamento, uma investigação rápida e descobrem que os bandidos levaram o que conseguiram colina a cima, e o restante se desfizeram no mar, arremessando seu destroços.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Ao escalarem a colina, o grupo se depara com uma floresta e logo seguindo os rastros, localizam o acampamento dos bandidos que saquearam a carroça.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">Após lutar contra os bandidos, o grupo os matam e ocupam o acampamento, recuperando boa parte do que havia sido extraviado.</span><span style="color: #F7C125"><br/>
+        </span><span style="color: #F7C125">...</span></p>
+        </span>
+      </span>
+      <span class="log msg-std" id="log-68a8166ba9b972e700a0e236">
+        <span class="talemark">
+        <hr>
+        </span>
+      </span>
+      <span class="log msg-std" id="log-68a81698a9b972e700a0e24e">
+        <span class="talemark"><h2><span style="color: #F7C125">FIM de </span><span class="talemark-narrative-action"><span style="color: #4285F4">● E01.S01 ●</span></span></h2>
+        </span>
+      </span>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  </body>
+
+</html>

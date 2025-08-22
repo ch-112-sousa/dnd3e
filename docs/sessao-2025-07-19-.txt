@@ -1,0 +1,150 @@
+[NARRADOR]
+# Breves Memórias de um Despertar
+## * E01.S01 * -- Regressão de Adar -- * Intro *
+-- No início, o caos, um esforço para se conectar, se lembrar --
+*****
+* Jogadores *
+((Adar)) -- Humano Ladino -- Carlos
+((Andros)) -- Humano Guerreiro -- Gustavo
+((Adar)) -- Humano Guerreiro -- Agnaldo
+((??)) -- Humano Ladino -- Gabriel
+((??)) -- Humano Ladino -- Leo
+((??)) -- Humano Barda -- Axo
+((??)) -- Humano Clériga -- Amiga Axo
+((??)) -- Humano Mago -- Leopold Leopoldo
+*****
+Vencendo a inércia, entendemos uma manifestação nas próprias palavras de Adar...
+
+
+[ADAR]
+-- Me chamo Adar. -- (( Inspira ))
+-- Sou Humano, Ladino. --  (( Expira ))
+
+[NARRADOR]
+Suas palavras ecoavam como em uma memória há muito tempo esquecida...
+
+
+[ADAR]
+-- Fui acusado de violar uma tumba e conduzido para uma cela numa masmorra --
+-- Meus equipamentos: --
+-- Uma armadura de couro batido, uma espada curta, uma adaga, 4 azagaias e um arco curto com 20 flechas --
+-- Foram arrancadas de mim --
+-- E fui jogado, sem meus pertences, em uma cela na masmorra, onde estavam encarcerados 2 criminosos, um clérigo e um ladrão --
+
+[NARRADOR]
+Desolado, ele prosseguia em seus pensamentos...
+
+[ADAR]
+-- Não me recordo com precisão a ordem com que esses criminosos foram chegando --
+-- Lembro apenas de passar a conviver de forma deplorável numa cela muito pequena --
+-- Eramos alimentados pelo carceireiro de nome Cleitinho, que nos jogava restos de comida --
+-- Na cela, eixstia apenas uma janela minúscula que iluminava nosso desespero --
+-- Perdemos a noção do tempo --
+
+[NARRADOR]
+Lágrimas de profunda tristeza em seus olhos...
+
+[ADAR]
+-- Eram circunstâncias desumadas --
+
+[NARRADOR]
+Deixava suas lágrimas escorrerem sem enxugá-las...
+
+[ADAR]
+-- Outros criminosos iam sendo jogados dentro de nossa cela --
+-- De tempos em tempos --
+-- A cela ficou tão cheia a ponto de nos obrigar a revezar para dormir --
+-- As condições horríveis, terríveis, deploráveis e desumanas nos obrigou a cooperar uns com os outros -- 
+-- Fracos, desnutridos, e imundos, nós nos apegamos num vínculo de sobrevivência -- 
+
+[NARRADOR]
+Mas ele se concentrou e lembrou que para aqueles que merecem, sempre há uma esperança...
+
+[ADAR]
+-- Mas o destino quis que um nobre comprasse minha dívida, assim como a dos demais encarcerados --
+-- Porém no dia que esse nobre veio até nós, ocorreu uma briga no momento de nossa soltura -- 
+-- Eu recordo de pular fora da cela imediatamente ao ver o carcereiro abri-la --
+
+[NARRADOR]
+E então ele reagiu, ao mundo, de dentro de si...
+
+[ADAR]
+-- Meu anseio e ação por liberdade imediatamente causou reações nos outros presos --
+-- Lembro-me do ladino, arrancar as chaves da cela da mão do carcereiro --
+-- E de Agnon pular para cima de um dos guardas puxando a maça que estava presa em sua cintura --
+
+[NARRADOR]
+Mas seu caminho traçado não se revelou fácil...
+
+[ADAR]
+-- De repente m golpe de maça do outro guarda, fez com que o guerreiro Agnon desmaiasse --
+-- O ímpeto e ânimos de todos os prisioneiros foram então reduzidos e controlados --
+-- Logo em seguida, um nobre de nome, Valen Ordriscall, nos avisou que estava comprando a nossa dívida --
+-- Suas arrogantes palavras, nos impuseram apenas duas rasas opções -- 
+
+[NARRADOR]
+E como a vida é feita de escolhas, muitas vezes trata-se de agarrar a sua oportunidade.
+Valorizar o que temos e saber que poderia ter sido pior.
+Adar, então, buscou mais clareza para tomar seu posicionamento...
+
+[ADAR]
+-- Seremos tratados como servos? Seremos tratados como escravos!? -- ((questionou ainda com as chaves do carceireiro em mãos já rendido))
+
+[Valen]
+-- Seus indigentes, vocês devem me agradecer por ter interesse em te oferecer mais de uma opção, uma questão de oportunidade --  ((odiando estar próximo de todos ali presentes))
+-- Vocês irão trabalhar para a família Ordriscall por um ano e é isso ou voltar para a cela na masmorra! -- ((preocupado em não se sujar e incomodado com o odor proveniente da cela))
+-- Então o que me dizem? ((protegido pelos guardas, e querendo resolver logo esse assunto para poder sair logo desse inferno))
+
+[Prisioneiros]
+-- ... -- ((silêncio ensurdecedor, clima tenso, de mistura de raiva, ódio e uma fraqueza monumental))
+
+[Valen]
+-- Então é isso, soltem-nos e vamos logo sair daqui -- ((acena para os guardas com a cabeça com um ar de superioridade))
+
+[ADAR]
+-- Estamos livres?
+
+[Valen]
+-- Vocês agora tem uma dívida com a família Ordriscall e por terem muita sorte, irão trabalhar por 1 ano para nós. Quem sabe conseguem comprar sua liberdade? Ah, acho que não, hahaha --  ((esnoba imaginando que isso nunca será possível))
+-- Agora vamos, tenho muito o que fazer... longe desse chiqueiro -- ((saindo sobre a proteção de um dos guardas, deixando os prisioneiros sobre os cuidados do outro guarda))
+-- Lembrando que se tentarem fugir é pena de morte -- ((intimida com um ar de superiodade e sai da masmorra))
+
+[Guarda]
+-- Valen pagou comprou a dívida dos senhores, vocês devem a ele agora sua liberdade --  ((explica e solta os prisioneiros))
+-- Seus pertences estão naquele cômodo -- ((aponta avisando os prisioneiros)) 
+-- Valen mandou vocês tomarem um banho na taverna, se vestirem e encontrar com ele na companhia Ordriscall -- ((solta os prisioneiros))
+
+[NARRADOR]
+Os prisioneiros se equipam e são conduzidos à saída da masmorra, que se dá através de uma escada que sai no meio do quartel.
+Frágeis ao ponto de demorar para se acostumar com a luminosidade de um dia ensolarado eles sobem a escada.
+O primeiro a sair quase é morto pois a escada dava no meio do quartel.
+Mas um aceno de um dos guardas garante a liberdade provisória ao grupo.
+
+[Guarda]
+-- Sr Valen pediu para que vocês averiguassem o paradeiro de um carregamento -- ((de braços cruzados))
+-- A carroça já deveria ter chegado, verifiquem o que foi que ocorreu --  ((observa andros de cima a baixo e chacoalha um saco com uma boa quantia de moedas))
+-- Aqui está, Sr Valen pediu que entregasse -- ((se referindo ao saco de moedas)) 
+-- Disse que é para pagar Leopold, um especialista que irá guiá-los nessa missão -- ((arremessa com força para Andros um saco cheio de moedas))
+
+[[Andros]]
+-- ... -- ((agarra o saco com as moedas fraco sem balbuciar nenhuma palavra))
+
+[NARRADOR]
+O grupo então se dirigiu para a pior estalagem, a que a estadia havia sido paga por Valen.
+Tomaram banho, se alimentaram e descansaram a noite inteira, exaustos.
+Na manhã seguinte, obtiveram informações com o taverneiro sobre Leopold e sobre onde a carroça foi avistada pela última vez.
+Leopold foi localizado em outra taverna e após contratado por Andros, conduziu o grupo até seu galpão, uma espécie de esconderijo...
+
+[Ladino]
+-- Eu sei onde a carroça foi vista pela última vez -- ((explica entusiasmado))
+-- Fica nos arredores do porto. Me sigam -- ((conduzindo o grupo para uma estrada, uma rota comercial))
+
+[NARRADOR]
+O grupo, guiado pelo ladino, e com um pouco de sorte, localiza destroços da carroça jogadas no mar.
+Fazem um rastreamento, uma investigação rápida e descobrem que os bandidos levaram o que conseguiram colina a cima, e o restante se desfizeram no mar, arremessando seu destroços.
+Ao escalarem a colina, o grupo se depara com uma floresta e logo seguindo os rastros, localizam o acampamento dos bandidos que saquearam a carroça.
+Após lutar contra os bandidos, o grupo os matam e ocupam o acampamento, recuperando boa parte do que havia sido extraviado.
+...
+
+*****
+## CONTINUA, FIM DO * E01.S01 *
