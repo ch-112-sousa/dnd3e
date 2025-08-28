@@ -1,0 +1,310 @@
+# Breves Memórias de um Despertar
+## * E01.S06 * -- Regressão de Adar -- * Realinhamento *
+-- Após um balde de água fria --
+*****
+* Jogadores *
+((Adar)) -- Humano Ladino -- Carlos
+((Joo Peter)) -- Humano Clérigo -- Dudu
+(Leonardo)) -- Humano Mago -- Leopold Leopoldo
+((Jared)) -- Humano Ranger -- João Pedro
+((Bold)) -- Kobold Bardo-- Matheus
+((Cormak)) -- Humano Guerreiro -- Vitor
+((Leo)) -- Humano Guerreiro -- Vinícius
+*****
+
+[NARRADOR]
+O grupo voltava das brumas dos portões da cidade dos Deuses. Haviam deixado espadas e Adar havia carregado consigo um pouco de terra em um saco de terra como recordação. De volta para a trilha onde a carroça estava estacionada.
+Buscavam localizar o paradeiro de Elara, a irmã de Milena. Estavam a serviço da família de mercantes Ordriscall.
+
+[Adar]
+-- Mal me recordo da noite passada, agradeço a ti Leopold, por me salvar. -- ((falava com Leopold aliviado))
+
+[NARRADOR]
+Adar havia sido salvo e teve sua dívida   renegociada, mudando de dono, passava a ser com o Leopold agora.
+...
+O dia estava ensolarado e todos haviam retornado da bruma.
+O ranger, Jared, então, os guia até o outro lado da rota comercial.
+Caminhando pela floresta, seguindo em direção a eles se deparam com um kobold amarrado e amordaçado.
+
+[Jared]
+-- Nossa, parece que temos um kobold preso --  ((tira a mordaça do kobold))
+
+[Bold]
+-- Me tirem daqui! -- ((tentando se desvencilhar as cordas))
+
+[Adar]
+-- Claro, que iremos ajudá-lo. A propósito, como você pensa em sair daí? -- ((observando o kobold se esperneando))
+
+[Bold]
+-- Eu sei fazer muitos truques! Posso ser útil. Meus equipamentos estão ali do lado, por favor me soltem -- ((Irrequieto se mexia nas cordas))
+
+[Jared]
+-- Eu acho que ele pode ser útil -- ((observava com o grupo))
+
+[Adar]
+-- Sim, ele parece saber muitos truques interessantes mesmo -- ((observava o kobold))
+
+[Joo Peter]
+-- ... -- ((solta o kobold desamarrando as cordas))
+-- Pode vir conosco -- ((fala de forma bastante calma))
+
+[Leopold]
+-- É, creio que pode nos ajudar -- ((explica e tranquiliza o kobold))
+-- Afinal de contas estamos indo na mesma direção, correto? Vamos --((convida o kobold para se juntar ao grupo e já segue o caminho))
+
+[Bold]
+-- Ok! Me chamo Bold, sou bardo! Agradeço a carona -- ((saca um instrumento musical de cordas, sobe na carroça e vai tocando com maestria))
+
+[NARRADOR]
+O grupo segue agora com reforços. Um bardo kobold entra na carroça e vai animando o caminho com suas músicas.
+O caminho da rota comercial, sentido a região oposta do armazém de leopold.
+Passam muitas horas até se depararem com uma carroça vinda do lado oposto.
+Adar e Leopold notam se tratar de carroça da família Ordriscall sendo conduzida por 4 guardas.
+
+[Adar]
+-- Olá, tudo tranquilo? -- ((para a carroça e espera os guardas se aproximarem))
+
+[Guarda]
+-- Alto lá! Quem são vocês? O que fazem por aqui? Quem está no comando?-- ((observa os aventureiros))
+
+[Adar]
+-- Eu me chamo Adar! Sou o nobre Adar e estamos em serviço para a família Driscal! Tudo tranquilo por aqui! ((fala em voz alta para que todos possam ouvir))
+
+[Leopold]
+-- ... -- ((Desce da carroça para conversar com os guardas))
+-- Pois não? -- ((dirige sua palavra a um dos guardas))
+
+[Bold]
+-- ... -- ((para de tocar o instrumento de cordas e fica em silêncio, procurando lembrar algo sobre os Odriscalls))
+
+[NARRADOR]
+Bold tem uma breve lembrança de que os Ordriscalls são uma companhia mercante, comerciantes.
+O guarda segue conversando pedindo alguns esclarecimento sobre o grupo.
+
+[Guarda]
+-- Quem é o responsável? Um de cada vez -- ((olha e fala em voz alta))
+
+[Adar]
+-- Nesse caso é o nobre Leopold ali mesmo! Eu sou apenas um nobre que o acompanha nesse momento, nesse caso, obviamente -- ((fala bem rápido olhando para o bardo))
+
+[Bold]
+-- ... -- ((Para de tocar o instrumento de cordas e fica quieto olhando em silêncio))
+
+[Leopold]
+-- Sim, sou eu o responsável -- ((fala para o guarda calmamente))
+
+[Adar]
+-- Então, nós estamos procurando informações sobre Elara, a irmã da lady Milena da família ordriscall ela é ruiva e tem aproximadamente uns 15 anos ((fala rápido e olha a reação dos guardas))
+
+{NARRADOR]
+Adar não compreende muito bem a reação do guarda, mas nota que o bardo está bem atento a conversa.
+
+[Leopold]
+-- ... -- ((olha pra Adar fixamente sem se pronunciar com palavras))
+
+[Adar]
+-- ... -- ((entra rapidamente para dentro da carroça, se senta e fica quieto))
+
+[Guarda]
+-- Humm,  entendo -- ((puxa um ar, e observa todos ali presentes))
+Certo, então já que estão a serviço dos Ordriscalls, use isso aqui para te identificar -- ((coloca um selo da família ordriscall nas vestes de Leopold))
+
+[NARRADOR]
+Na frente da carroça estava Adar e o Bardo.
+Dentro estava o clérigo e os dois guerreiros.
+Caminhando a pé estava Jared o ranger.
+A conversa segue.
+
+[Leopold]
+-- Consegue nos dizer com mais precisão onde tem uma taverna aqui na região? ((fala e ve o guarda colocar uma identificação dos Ordriscalls no seu ombro))
+
+[Guarda]
+-- Ok, nos acompanhe -- ((pega seu cavalo pelas rédeas e conduz o grupo pelo caminho sem falar mais nada))
+
+[NARRADOR]
+O guarda conduz o grupo até uma estalagem, onde deixa a carroça no estábulo.
+Ele passa o tempo todo quieto e atento.
+Quando se aproximam da taverna, todos notam uns cidadãos escravizados, marcados por um metal no pescoço.
+A área parece ser uma região para construir barcos, are industrial.
+Adar nota que existem 3 famílias Vantis, Tarven e Ordriscalls atuando na área.
+
+[Leopold]
+-- Vou entrar na taverna, buscar informações -- ((já se dirige imediatamente ao estabelecimento))
+
+[Narrador]
+Entram na taverna todos exceto Adar, que fica cuidando da carroça.
+Passam-se algum tempo e sai um sujeito suspeito de dentro da taverna.
+Seguido do grupo de aventureiro que corre em direção ao cidadão.
+Adar se esconde dentro da carroça.
+
+[Adar]
+-- ... -- ((se esconde, espera dentro da taverna olhando em volta))
+
+[Narrador]
+Nenhum movimento mais de pessoas entrando e saindo no momento, tudo muito tranquilo além da conta.
+Adar observa o bardo Kobold retornar.
+
+[Bold]
+-- Vem conosco, o ranger localizou um suspeito e está seguindo seus rastros, que vai para dentro da floresta, não fique aí sozinho! -- ((fala para Adar e segue para a trilha, entrada da floresta))
+
+[Adar]
+-- Acho que devia ter contado sobre os Ordriscalls, fico feliz de entender, enfim, vamos! -- ((segue o kobold))
+
+[Narrador]
+O grupo se reúne na entrada da floresta.
+Jared analisa os rastros do homem que entrou pela floresta.
+
+[Jared]
+-- Silencio agora e calma -- ((caminha devagar seguindo os rastros do homem))
+
+[Narrador]
+Um rato gigante que estava na mata, ataca Jared.
+
+[Leo]
+-- Arghhh, Maldito rato! -- ((golpeia com seu montante gigante o rato com toda sua força))
+
+[Narrador]
+O golpe erra o alvo.
+O rato erra Jared e segue rapidamente em cima de Cormak.
+
+[Cormak]
+-- Deixe comigo! Rarrghh ((dá uma pisada com força no rato colocando todo seu peso  e brutalidade))
+
+[Narrador]
+O rato é esmagado e seus olhos são esbugalhados, formando uma poça de sangue em volta.
+O grupo se reagrupa após o susto.
+
+[Leo]
+-- Deixe-me leva-lo comigo -- ((pega como se fosse um troféu, e o coloca na cintura))
+-- ... --((pendura na sua cintura, amarrando com a corda))
+
+[Jared]
+-- Vamos ter mais cuidado na próxima vez, fiquem atentos -- ((continua guiando o grupo pela floresta, seguindo os rastros))
+
+[NARRADOR]
+O grupo entra num terreno onde tem corpos espalhados mortos pelo chão.
+Não muito distante, uma árvore se move devagar pela floresta e golpeia jared.
+
+[Arvore Grande]
+-- .. -- ((arremessa uma árvore sobre jared))
+
+[Jared]
+-- Cuidado! -- ((Dispara com seu arco composto))
+
+[Leo]
+-- Arghh! -- ((avança sem hesitar pra cima da árvore com seu montante de 2 mãos))
+
+[Cormak]
+-- Rrrrggg! -- (Corre com tudo pra cima da enorme árvore em charge com sua espada longa ))
+
+[Adar]
+-- ... -- ((Atira com seu arco curto))
+
+[Joo Peter]
+-- ... -- ((faz uma oração, proferindo palavras ao deus do caos))
+
+[Leopold]
+-- Aiuhumrumn kiriviakt ri ti kat! -- ((pronunciava algumas palavras estranhas e jogava sua magia sobre a arvore, color spray))
+
+[Bold]
+-- ... -- ((se afasta com seu instrumento, tenta ajudar com uma música para acalmar os nervos))
+
+[Narrador]
+A primeira patada da arvore acerta Jared, derrubando-o. Sua flecha a acerta porém sem surtir qualquer efeito.
+A arvore se prosta tamanha força aplicada no golpe, caindo de lado em cima de Cormak.
+Adar erra sua flechada.
+A segunda esticada de galhos acerta Leo que é isolado para longe.
+Leo chega a partir uma lasca da árvore, porém cai inconsciente.
+Leopold acerta o color spray.
+A benção é recitada por Joo Peter.
+Cormak acerta a arvore cortando-a, tirando lasca.
+
+[Leopold]
+-- A fraqueza dessa criatura são armas cortantes! -- ((grita avisando o grupo))
+
+[Arvore Grande]
+-- ... -- ((golpeia com toda sua força o guerreiro Cormak))
+
+[Cormak]
+-- Rrraaah -- ((gira sua espada pra cima da arvore, buscando um golpe poderoso))
+
+[Adar]
+-- ... -- ((Corre, puxa o corpo de Leo para longe da arvore))
+
+[Joo Peter]
+-- Aqui -- ((se aproxima do corpo do Leo, tentando curá-lo))
+
+[Narrador]
+Cormak se levanta e aplica um golpe fulminante heroico, porém a árvore consegue entortar seu corpo brutalmente.
+Alguns pedaços da árvore atingem Jared esmagando sua cabeça.
+A árvore ao se levantar, bastante debilitada pelo golpe de Cormakl, se vira para Leopold.
+Joo Peter, fica tentando estabilizar o corpo de Leo.
+
+[Leopold]
+-- aiuhu... -- ((fecha os olhos e gesticula outro color spray))
+
+[Bold]
+-- ... -- ((toca umas notas musicais e se concentra em Adar, inspirando-o))
+
+[Adar]
+-- ... -- ((joga seu arco curto no chão, pega o montante de Leo, e vindo por trás da criatura, faz um charge))
+
+[Joo Peter]
+-- ... -- ((com o corpo de Leo em seus braços, olha para Adar e faz um sinal da cruz gesticulando com suas mãos))
+
+[Narrador]
+O golpe de adar pelas costas derruba a árvore gigante, partindo-a ao meio e evitando que atingisse Leopold.
+
+[Adar]
+-- ... -- ((tremendo após o golpe fatal na criatura enfraquecida, apenas treme as mãos e larga o montante de Leo de lado se ajoelhando perante a tensão de perder 2 de seus companheiros ))
+
+[Narrador]
+Após o combate, o grupo coleta e divide algumas moedas de corpos mortos e levanta acampamento.
+Joo Peter faz uma oração para seus companheiros, Cormak e Jared.
+Leo acorda e se recupera.
+No dia seguinte, o grupo é surpreendido por um homem mexendo em outros corpos que haviam sido mortos nas proximidades pela enorme árvore.
+
+[Leopold]
+-- ... -- ((tenta detectar magia))
+
+[Narrador]
+Leopold percebe uma espécie de escudo mágico protetor no homem.
+Leo está melhor mas ainda ferido.
+O homem está cutucando uma pilha de cadáveres.
+
+[Leo]
+-- Não toque nele! -- ((referia-se ao corpo de Cormak))
+
+[Leopold]
+-- Sinto presença de ... ((comenta, porém interrompe ao ver Leo se aproximando do homem ainda ferido))
+
+[Homem]
+-- Ah, então você lida com mortos é? Me ajude a virar esse corpo aqui! -- ((cutucava com um espeto um dos cadáveres))
+
+[Leo]
+-- humm, ok -- ((Vira o corpo de Cormak de barriga para cima ))
+
+[Homem]
+-- Você sabe que esses corpos estão mortos? Sabe né? Morreram? ((mudava de cadáver, cutucava Jared))
+
+[Leopold]
+-- Vejo que você entende de assuntos dos mortos. Foi você quem levantou corpos de mortos? Sabe como isso é possível? ((fala para o Homem))
+
+[Bold]
+-- Nos ajude com seu conhecimento e prometo que iremos embora.  ((fala para o Homem))
+
+[Adar]
+-- ... -- ((apenas observa, depois segue e dobra sua roupa de nobre e a guarda em sua mochila, colocando seu traje de explorador))
+
+[Homem]
+-- Humm, querem minha ajuda? Precisando de ajuda é? Querem minha ajuda então? Você me ajudou quer ser meu ajudante? ((fala para Leo)) 
+-- Ahh um kobold, interessante ((fala para Bold)) 
+-- Querendo ajuda é? Se prometerem que vão embora, respondo sim, humm Feiiceiro é?! feiticeiro você. ((fala para Leopold))
+
+[Leo]
+-- Sim, eu aceito -- (( fala para o homem ))
+
+...
+
+*****
+## CONTINUA, FIM DO * E01.S06 *

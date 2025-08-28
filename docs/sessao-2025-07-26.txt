@@ -1,0 +1,116 @@
+[NARRADOR]
+# Breves Memórias de um Despertar
+## * E01.S02 * --  Em busca de Liberdade --
+-- Forçados a se desvencilhar de uma vida de servidão  --
+*****
+((Adar)) -- Humano Ladino -- Carlos
+((Andros)) -- Humano Guerreiro -- Gustavo
+((Agnon)) -- Humano Guerreiro -- Agnaldo
+((Ralof)) -- Humano Paladino -- Arthur
+((Joo Peter)) -- Kobold Feiticeiro -- Matheus
+*****
+O grupo agora se encontrava no acampamento na floresta improvisado dos bandidos.
+A luta contra os 6 bandidos havia sido sangrenta.
+Era hora de verificar as mercadorias que os bandidos haviam roubado dos mercadores.
+Ao vasculharem o acampamento, existia um humano preso por cordas em seus pulsos, e amordaçado...
+
+[Andros]
+-- Não percamos tempo, vasculhem tudo, vamos me ajudem com isso aqui -- ((analisando o acampamento))
+
+[NARRADOR]
+Existem algumas caixas empilhadas cobertas por uma lona, e uma espada encostada em uma dessas caixas, além da fogueira apagada recentemente.
+Os corpos dos bandidos derrotados estão espalhados pelo acampamento.
+E um prisioneiro amordaçado e amarrado com cordas sentado numa cadeira próximo de uma das caixas.
+Agnon nota uma espada encostada em uma das caixas.
+
+[Andros]
+-- Adar, Agnon, cuidem do prisioneiro -- ((se aproxima da mercadoria roubada, tirando a lona de cima das caixas))
+
+[NARRADOR]
+Andros se ocupa removendo as lonas e arrastando os corpos dos bandidos.
+Enquanto que Agnon e Adar lidam com o prisioneiro...
+
+[Adar]
+-- ... -- ((contorna o humano, e por trás, com uma das mãos pressiona sua adaga sobre a corda, olha para Agnon))
+
+[Agnon]
+-- ... -- ((olhando para a espada e em seguida para Adar, acena positivamente com a cabeça para ele))
+
+[Adar]
+-- ... -- ((força a corda com a adaga, mas não a corta, faz o movimento lentamente, remove a mordaça))
+
+[Agnon]
+-- Pode nos dizer o que aconteceu aqui? Quem são esses homens? -- ((observa com seu montante em mãos))
+-- Imagino que não compactua com nada disso, correto? -- ((tentando encorajar o homem que estava preso))
+
+[NARRADOR]
+Agnon e Adar notam um símbolo sagrado em sua cota de malha.
+Aparentemente um religioso.
+
+[Ralof]
+-- Me chamo Ralof, sou paladino e estou a serviço do nobre Valen, da família Ordriscall. ((fala francamente e em voz alta))
+-- Vim resgatar esse carregamento roubado.
+
+[Adar]
+-- ... -- ((repetindo um olhar fixo para Agnon, após alguns segundos, finalmente corta a corda e solta o homem, faz isso por se tratar de um paladino e por estar a serviço de Valen))
+
+[NARRADOR]
+Andros termina de reunir os corpos dos bandidos e os empilha após remover a lona de cima de algumas caixas.
+
+[Andros]
+-- Certo, Ralof, paladino é? me acompanhe -- ((conduzindo Ralof até seus equipamentos))
+-- Já que estamos no mesmo barco, aqui estão seus equipamentos -- ((sugerindo que Ralof, o paladino, ajude o grupo com Valen))
+
+[NARRADOR]
+Enquanto Andros se apresentava como líder do grupo e obtia mais informações sobre Valen, Agnon mostrava a Adar uma espécie de baú com uma fechadura...
+
+[Adar]
+-- Deixe-me ver se consigo abrí-la -- ((mexendo na superfície e trava do baú, com maestria abre o baú))
+-- Consegui! aqui está! é, parece que não tem dinheiro aqui, apenas uma papelada -- ((abre o baú, verifica se tratar de alguns documentos, sem muito pensar, a fecha e imediatamente a entrega para Ralof para entender melhor a relação de Ralof com seu conteúdo))
+
+[NARRADOR]
+Ralof recebe o baú de Adar.
+
+
+[Ralof]
+-- ... -- ((abria e observava tentando entender o que estava no baú))
+
+[Narrador]
+Ralof entende pouco do conteúdo, talvez sejam documentos, talvez anotações comerciais.
+
+[Adar]
+-- E aquela espada, Agnon? --  ((percebe que o conteúdo era novidade para Ralof, aponta para a espada encostada na caixa))
+
+
+
+[Agnon]
+-- Essa espada é sua paladino? -- ((ergue e observa se ela está balanceada))
+
+[NARRADOR]
+Adar olhava avaliando a majestosa espada empunhada por Agnon, e conseguia nitidamente entender tratar-se da espada de angelus, um artefato raríssimo e religioso.
+Andros não chegou a notar a espada, pois estava ocupado verificando as caixas do carregamento.
+
+[Adar]
+-- Então, Ralof, conhece essa espada? -- ((novamente se aproveita da oportunidade de distrair o paladino e tenta pegar a caixa de suas mãos))
+-- É um artefato relioso, parece -- ((faz um gesto com uma das mãos para que Agnon a mostre para o paladino))
+
+[Ralof]
+-- Ah, espada? -- ((entrega a caixa para Adar))
+
+[Agnon]
+-- .. -- ((Entrega a espada para Ralof, o paladino, verificar))
+
+[Ralof]
+-- Ah, essa espada não é minha, não -- ((reconhece a força da espada))
+
+[NARRADOR]
+Ralof sente uma enorme força vindo espada, reconfortante e ao tentar devolvê-la, Agnon pede para que ele a carregue até que o grupo decida o destino da espada com Valen.
+
+
+[NARRADOR]
+
+...... incomplete
+
+
+ 
+

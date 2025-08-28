@@ -6,7 +6,7 @@
 * Jogadores *
 ((Adar)) -- Humano Ladino -- Carlos
 ((Andros)) -- Humano Guerreiro -- Gustavo
-((Adar)) -- Humano Guerreiro -- Agnaldo
+((Agnon)) -- Humano Guerreiro -- Agnaldo
 ((??)) -- Humano Ladino -- Gabriel
 ((??)) -- Humano Ladino -- Leo
 ((??)) -- Humano Barda -- Axo
