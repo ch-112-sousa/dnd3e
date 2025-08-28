@@ -5,7 +5,7 @@
 * Jogadores *
 ((Adar)) -- Humano Ladino -- Carlos
 ((Joo Peter)) -- Humano Clérigo -- Dudu
-(Leonardo)) -- Humano Mago -- Leopold Leopoldo
+((Leonardo)) -- Humano Mago -- Leopold Leopoldo
 ((Jared)) -- Humano Ranger -- João Pedro
 ((Bold)) -- Kobold Bardo-- Matheus
 ((Cormak)) -- Humano Guerreiro -- Vitor
